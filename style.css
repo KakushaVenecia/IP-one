@@ -5,7 +5,7 @@ body {
   
   h1 {
     color: blue;
-    border: 3px solid white;
+    border:3px solid white;
     padding: 4px;
     font-family: verdana;
     font-size: 200%;
@@ -14,4 +14,7 @@ body {
   p {
     color:black;
     border: 2px solid powderblue;
+    border: 5px solid powderblue;
+    padding-left: 20px;
+    font-size: 25px;
   }
