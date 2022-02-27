@@ -2,7 +2,11 @@
 # Portfolio
 
 ## By Kakusha Venecia 
+<<<<<<< HEAD
 ### It is a description of my myself and the work I do .
+=======
+### It is a description of my myself and the work I do.
+>>>>>>> main
 
 ## Table of Content
 
