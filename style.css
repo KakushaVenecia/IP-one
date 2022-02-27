@@ -1,12 +1,17 @@
 body {
     background-color: powderblue;
   }
+   
+  
   h1 {
     color: blue;
+    border: 3px solid white;
+    padding: 4px;
     font-family: verdana;
     font-size: 200%;
     text-align: center;
   }
   p {
     color:black;
+    border: 2px solid powderblue;
   }
