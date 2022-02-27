@@ -1,4 +1,12 @@
-.image{
-    width: 5px;
-    height: 10px;
-}
+body {
+    background-color: powderblue;
+  }
+  h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 200%;
+    text-align: center;
+  }
+  p {
+    color:black;
+  }
