@@ -1,20 +1,32 @@
 # Web Portfolio
-## Venecia Kakusha
-### Table of Content
-<li> <a href=" https://github.com/KakushaVenecia/ip-one/tree/main#description" > Description </a></li>
-<li> <a href=" https://github.com/KakushaVenecia/ip-one/tree/main#technologies-used">Technologies Used</a></li>
-<li> <a href=" https://github.com/KakushaVenecia/ip-one/blob/main/images/me.jpg"> Images</a></li>
-<li> <a href=" https://github.com/KakushaVenecia/ip-one/blob/main/LICENSE"> Licence</a></li>
-  
-### Description
-This is a web portfolio for Venecia Kakusha that has details about me, my interests and projects done in the past.
-### Technologies Used
-HTML
+# Portfolio
 
-CSS
+## By Kakusha Venecia 
+### It is a description of my myself and the work I do.
 
-<a href= "images/me.jpg">IMAGES</a>
+## Table of Content
 
-<a href="https://github.com/KakushaVenecia/ip-one/blob/main/LICENSE">LICENCE</a>
++ [Description](#description)
++ [Technology Used](#technology-used)
++ [Reference](#reference)
++ [Licence](#licence)
++ [Authors Info](#author-Info)
+
+## Description
+<p>This is a website that shows my portfolio/resume.It contains all my background information, some sample projects that I have worked on and the experience gained.</p>
 
 
+## Technology Used
+* HTML - which was used to build the structure of the pages.
+
+* CSS - which was used to style the pages.
+
+## Licence
+<a href= "https://github.com/KakushaVenecia/ip-one/blob/main/LICENSE">MIT Licence</a>
+
+## Authors Info
+
+Git Hub Profile- [Venecia Kakusha] (https://github.com/KakushaVenecia)
+
+
+ 
