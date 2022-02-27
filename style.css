@@ -1,18 +1,16 @@
 body {
-    background-color: powderblue;
+    background-color:#CCCCFF;
   }
   h1 {
-    color: blue;
+    color: #900C3F;
     margin: 20px;
     padding: 4px;
     font-family: 'Open Sans', 'Helvetica Neue';
-    font-size: 200%;
+    font-size: 250%;
     text-align: center;
   }
   h2{
-color: blueviolet;
-margin: 5px;
-border-top: 3px;
+color: #581845;
     padding: 4px;
     font-family: verdana;
     font-size: 200%;
@@ -22,8 +20,6 @@ border-top: 3px;
     color:black;
     text-align: justify;
     margin: 2px;
-    border: 2px solid powderblue;
-    border: 5px solid powderblue;
     padding-left: 25px;
     padding-right: 30px;
     font-size: 25px;
@@ -37,4 +33,8 @@ border-top: 3px;
   }
   ul{
 padding-right: 30px;
+}
+li{
+font-size: 20px;
+
 }
