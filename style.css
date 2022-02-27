@@ -9,6 +9,17 @@ body {
     font-size: 200%;
     text-align: center;
   }
+  h2{
+color: blueviolet;
+margin: 20px;
+    padding: 4px;
+    font-family: verdana;
+    font-size: 200%;
+    text-align:left; padding-left: 20px;
+
+
+
+  }
   p {
     color:black;
     border: 2px solid powderblue;
