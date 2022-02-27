@@ -1,12 +1,9 @@
 body {
   background-color: #CCCCFF;
 }
-
 h1 {
-  background-color: #CCCCFF;
-}
-
-h1 {
+  border: 1px solid black;
+  background-color: burlywood;
   color: #900C3F;
   margin: 20px;
   padding: 4px;
