@@ -7,5 +7,5 @@ This is a web portfolio for Venecia Kakusha that has details about me, my intere
 html 
 CSS
 ![images/me.jpg]
-### LICENSE
+### https://github.com/KakushaVenecia/ip-one/blob/main/LICENSE
 
