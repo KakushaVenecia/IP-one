@@ -7,6 +7,5 @@
 html 
 CSS
 ![images/me.jpg]
-### Licence
-LICENSE
+### LICENSE
 
