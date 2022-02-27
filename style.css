@@ -1,11 +1,8 @@
 body {
     background-color: powderblue;
   }
-   
-  
   h1 {
     color: blue;
-    border:3px solid white;
     margin: 20px;
     padding: 4px;
     font-family: verdana;
@@ -16,7 +13,14 @@ body {
     color:black;
     border: 2px solid powderblue;
     border: 5px solid powderblue;
-    padding-left: 20px;
+    padding-left: 25px;
     padding-right: 20px;
     font-size: 25px;
+  }
+  img{
+      float: right;
+      flood-opacity: 50;
+      padding-right: 30px;
+      width: 400px;
+      height: 600px;
   }
