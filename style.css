@@ -1,10 +1,4 @@
-.header{ 
-padding: 80;
-    background-color: aquamarine;
-    font-size: 50;
-    text-align:center;
-}
-.container{
-background-color: white;
-font-size: 20px;
+.image{
+    width: 5px;
+    height: 10px;
 }
