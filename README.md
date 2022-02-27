@@ -2,11 +2,8 @@
 # Portfolio
 
 ## By Kakusha Venecia 
-<<<<<<< HEAD
 ### It is a description of my myself and the work I do .
-=======
-### It is a description of my myself and the work I do.
->>>>>>> main
+
 
 ## Table of Content
 
@@ -17,7 +14,7 @@
 + [Authors Info](#author-Info)
 
 ## Description
-<p>This is a website that shows my portfolio/resume.It contains all my background information, some sample projects that I have worked on and the experience gained.</p>
+<p>This is a website that shows my portfolio/resume. It contains all my background information, some sample projects I have worked on and the experience gained.</p>
 
 
 ## Technology Used
