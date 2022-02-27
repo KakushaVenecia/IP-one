@@ -11,7 +11,8 @@ body {
   }
   h2{
 color: blueviolet;
-margin: 20px;
+margin: 5px;
+border-top: 3px;
     padding: 4px;
     font-family: verdana;
     font-size: 200%;
@@ -20,6 +21,7 @@ margin: 20px;
   p {
     color:black;
     text-align: justify;
+    margin: 2px;
     border: 2px solid powderblue;
     border: 5px solid powderblue;
     padding-left: 25px;
@@ -35,5 +37,4 @@ margin: 20px;
   }
   ul{
 padding-right: 30px;
-
-  }
+}
